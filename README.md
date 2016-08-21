@@ -1,5 +1,7 @@
 # The Operator Mono Nerdfont
 
+![Screenshot](screenshot.png)
+
 Includes
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome)
 - [Font Linux](https://github.com/Lukas-W/font-linux)

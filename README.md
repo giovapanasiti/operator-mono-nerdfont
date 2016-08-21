@@ -7,6 +7,7 @@ Includes
 - [Pomicons](https://github.com/gabrielelana/pomicons)
 - [Powerline](https://github.com/powerline/fonts)
 - [Powerline Extra](https://github.com/ryanoasis/powerline-extra-symbols)
+
 Glyphs.
 
 Patched with the font-patcher tool by [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
